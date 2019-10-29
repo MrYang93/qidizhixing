@@ -33,9 +33,9 @@ swiper-item image {
   position: relative;
 }
 
-.swiper-container .swiper{
+/* .swiper-container .swiper{
   height: 300rpx;
-}
+} */
 
 .swiper-container .swiper .img{
   width: 100%;
